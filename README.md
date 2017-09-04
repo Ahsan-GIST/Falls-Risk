@@ -21,4 +21,4 @@ Sampling rate: 41 Hz
 
 
 
-The download the dataset please use the instructions in the DATASET.docx file
+To download the dataset please use the instructions in the DATASET.docx file
